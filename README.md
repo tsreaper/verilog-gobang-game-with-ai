@@ -5,14 +5,18 @@ It is a gobang game for one or two players which can be played using the Kintex-
 
 If you are intrested, you can read my project report (in Chinese) for more details.
 
-![game-running.jpg] (https://github.com/TsReaper/Verilog-Gobang-Game-with-AI/blob/master/screenshot/game-running.jpg)  
+<img src="https://github.com/TsReaper/Verilog-Gobang-Game-with-AI/blob/master/screenshot/game-running.jpg" alt="game-running.jpg">
+
 ^ The game is running.
 
-![game-running.jpg] (https://github.com/TsReaper/Verilog-Gobang-Game-with-AI/blob/master/screenshot/black-wins.jpg)  
+<img src="https://github.com/TsReaper/Verilog-Gobang-Game-with-AI/blob/master/screenshot/black-wins.jpg" alt="black-wins.jpg">
+
 ^ Black wins the game
 
-![game-running.jpg] (https://github.com/TsReaper/Verilog-Gobang-Game-with-AI/blob/master/screenshot/white-wins.jpg)  
+<img src="https://github.com/TsReaper/Verilog-Gobang-Game-with-AI/blob/master/screenshot/white-wins.jpg" alt="white-wins.jpg">
+
 ^ White wins the game
 
-![game-running.jpg] (https://github.com/TsReaper/Verilog-Gobang-Game-with-AI/blob/master/screenshot/draw.jpg)  
+<img src="https://github.com/TsReaper/Verilog-Gobang-Game-with-AI/blob/master/screenshot/draw.jpg" alt="draw.jpg">
+
 ^ It's a draw
